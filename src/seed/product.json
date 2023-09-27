@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Avocado",
+        "description": "Avocado is a nutrient-dense fruit that offers several health benefits. It is rich in healthy monounsaturated fats that support heart health and help lower bad cholesterol levels.",
+        "image": "https://media.istockphoto.com/id/1383933735/photo/avocado-halves.webp?b=1&s=170667a&w=0&k=20&c=3WyrCRqVa8g--7NvbGhfqk2yHBjxRZmZISf0bfyvw3M=",
+        "category": "fruit and vegetables"
+    },
+    {
+        "name": "Banana",
+        "description": "Bananas are a nutritious fruit packed with numerous health benefits. They are a great source of potassium, which helps maintain proper heart function and blood pressure levels.",
+        "image": "https://media.istockphoto.com/id/1396533263/photo/fresh-ripe-bananas.webp?b=1&s=170667a&w=0&k=20&c=lBlI3HUDmBvwF22BIyitbaPzY5Ip5DBWXqmQaEBtYyU=",
+        "category": "fruit and vegetables"
+    },
+    {
+        "name": "Bunch of carrots 5pcs",
+        "description": "Carrots are a nutritious root vegetable known for their vibrant orange color and numerous health benefits. They are an excellent source of beta-carotene, a precursor to vitamin A, which promotes healthy vision and supports immune function. ",
+        "image": "https://media.istockphoto.com/id/1436652705/photo/dirty-hands-clean-soul.webp?b=1&s=170667a&w=0&k=20&c=tyKuHFoNCvDVHeQqhUppT5HvzvDOduLuYIGJuDODT-s=",
+        "category": "fruit and vegetables"
+    },
+    {
+        "name": "Orange",
+        "description": "Oranges are juicy citrus fruits renowned for their refreshing taste and numerous health benefits. They are an excellent source of vitamin C, which boosts the immune system and promotes collagen production for healthy skin",
+        "image": "https://media.istockphoto.com/id/1351746589/photo/orange-fruit-slices-citrus-arrangement-full-frame-background.webp?b=1&s=170667a&w=0&k=20&c=V4uOiSpkVA_uEA_0amFjkAnCNCjMmw-hiJIq-DNkHxs=",
+        "category": "fruit and vegetables"
+    },
+    {
+        "name": "Watermelon",
+        "description": "Watermelon is rich in vitamins A and C, which support immune function, healthy skin, and tissue repair. It also contains lycopene, a powerful antioxidant that may help reduce the risk of certain cancers and promote heart health.",
+        "image": "https://media.istockphoto.com/id/478266756/photo/watermelon.webp?b=1&s=170667a&w=0&k=20&c=0Iq-k0A6v2qZfI0frivKcXl3CtfenfJNaUYNOIbDilQ=",
+        "category": "fruit and vegetables"
+    },
+    {
+        "name": "Apple",
+        "description": "Apples are a great source of dietary fiber, promoting digestive health and aiding in weight management by promoting feelings of fullness",
+        "image": "https://media.istockphoto.com/id/1365099869/photo/six-apples.webp?b=1&s=170667a&w=0&k=20&c=ZJI2fLOE6a0aCU-4BBg9qDYht3wH29GD3V_ThqpLfl8=",
+        "category": "fruit and vegetables"
+    },
+    {
+        "name": "Pre-cooked corn 450g",
+        "description": "Corn, also known as maize, is a versatile and popular cereal grain with various nutritional benefits. It is a good source of dietary fiber, which aids in digestion and promotes feelings of fullness.",
+        "image": "https://images.unsplash.com/photo-1533520958595-9ffb2b514373?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHByZWNvb2tlZCUyMGNvcm58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60",
+        "category": "fruit and vegetables"
+    },
+
+
+    {
+        "name":"Chicken leg box",
+        "description":"Chicken is rich in essential amino acids that support muscle growth, repair, and overall body function. It provides various vitamins and minerals, including vitamin B6, vitamin B12, iron, and zinc.",
+        "image":"https://media.istockphoto.com/id/1479966262/photo/close-up-image-of-golden-brown-crispy-southern-fried-chicken-breast-thighs-and-wings-deep.webp?b=1&s=170667a&w=0&k=20&c=UQ9CodocQRrMGMkQqp3-ferEq2WvCfLFN61VeN6hkWU=",
+        "category":"Meat and Fish"
+    },
+    {
+        "name":"Salmon 1kg",
+        "description":"Salmon is a nutrient-rich fish with a distinct flavor and several health benefits. It is an excellent source of high-quality protein, which is essential for muscle growth and repair.",
+        "image":"https://media.istockphoto.com/id/1317140116/photo/baked-salmon-with-aromatic-herbs-and-lemon-fruit-on-baking-paper.webp?b=1&s=170667a&w=0&k=20&c=nIo45iuiUjkL1vCLZvBQXIbKPkWD9k8TyAl5G4QfMGU=",
+        "category":"Meat and Fish"
+    },
+    {
+        "name":"Beef 450g",
+        "description":"Beef is a popular and versatile meat that is consumed in various forms worldwide. It is a rich source of high-quality protein, essential amino acids, vitamins, and minerals",
+        "image":"https://media.istockphoto.com/id/1403665879/photo/raw-beef-steaks-cutlets-and-shashlik-with-spices.webp?b=1&s=170667a&w=0&k=20&c=37bZGZ5oJIJ5UlE0Gpci-Z0Sa7lqcX7bfELbUNlkHyA=",
+        "category":"Meat and Fish"
+    },
+    {
+        "name":"lamb",
+        "description":"Lamb is a flavorful and tender meat that is enjoyed in many cuisines around the world. It is derived from young sheep and offers a unique taste profile. Lamb is a good source of high-quality protein, providing essential amino acids for muscle growth and repair.",
+        "image":"https://media.istockphoto.com/id/1166248187/photo/venison-elk-sirloin-tip-roast.webp?b=1&s=170667a&w=0&k=20&c=tvtEdZJRJitK62Dc22i4keWAdCCMq4wpqHfW2-m5Sho=",
+        "category":"Meat and Fish"
+    },
+    {
+        "name":"Katte",
+        "description":"A creamy espresso-based drink made with steamed milk and topped with a layer of frothed milk. It's often served in a glass or ceramic cup.",
+        "image":"https://images.unsplash.com/photo-1455621481073-d5bc1c40e3cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S2F0dGUlMjBiZXZlcmFnZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "category":"Beverages"
+    },
+    {
+        "name":"Mojito",
+        "description":"A refreshing cocktail made with rum, lime juice, sugar, mint leaves, and soda water. It's typically garnished with a sprig of mint and served over ice",
+        "image":"https://media.istockphoto.com/id/1302161390/photo/two-cocktails-at-sunset.webp?b=1&s=170667a&w=0&k=20&c=NP2RAqlLJQ3zbekbcczugOzaN4jdTNPD3bcLIHX4TVA=",
+        "category":"Beverages"
+    },
+    {
+        "name":"Matcha Green Tea",
+        "description":"A vibrant green tea made from finely ground powdered green tea leaves. It has a unique earthy flavor and is often enjoyed as a hot or cold beverage.",
+        "image":"https://media.istockphoto.com/id/1346864728/photo/homemade-dalgona-matcha-latte-a-trendy-drink-from-korea.webp?b=1&s=170667a&w=0&k=20&c=jVadKz94bMKyqd-EgQ3eH8ibrnOyHWH-DocOe_VDn0w=",
+        "category":"Beverages"
+    },
+    {
+        "name":"Sparkling Water",
+        "description":"A carbonated water beverage that contains no added flavors or sweeteners. It has a crisp and refreshing taste and is often enjoyed as a low-calorie alternative to sugary sodas.",
+        "image":"https://media.istockphoto.com/id/1186624437/photo/carbonated-water-on-wood-grain-background.webp?b=1&s=170667a&w=0&k=20&c=bNp9DvuuFC3SSFuMpdlshdqX1nILiPLBxpzoBOXr1xY=",
+        "category":"Beverages"
+    },
+    {
+        "name":"Mango Lassi",
+        "description":"A popular Indian drink made with ripe mangoes, yogurt, milk, and a touch of sugar. It has a smooth and creamy texture and is often served chilled.",
+        "image":"https://media.istockphoto.com/id/908734588/photo/mango-lassi-in-glasses.webp?b=1&s=170667a&w=0&k=20&c=ztvz2PPtKchH6Y3hkuLS9cUPPrfzA6rTxJApbXZCedE=",
+        "category":"Beverages"
+    },
+    {
+        "name":"Milk",
+        "description":"Milk is a nutrient-rich dairy product that is produced by mammals, primarily cows. It is a versatile ingredient used in various recipes and is also consumed on its own. Milk is a good source of calcium, protein, and essential vitamins like vitamin D.",
+        "image":"https://media.istockphoto.com/id/1337307092/photo/pouring-fresh-milk-in-glass.webp?b=1&s=170667a&w=0&k=20&c=x672gOe9I8P9H1cE4lq1WdzVkvAdOiiFxWs_BTiuQaA=",
+        "category":"Diary products"
+    },
+    {
+        "name":"Cheese",
+        "description":"Cheese is a dairy product made by coagulating milk and separating the curds from the whey. It comes in a wide variety of types, flavors, and textures. Cheese is often used as a topping, ingredient in dishes, or enjoyed on its own. It is a rich source of calcium, protein, and fat.",
+        "image":"https://media.istockphoto.com/id/188142058/photo/parmesan-cheese.webp?b=1&s=170667a&w=0&k=20&c=P_InKDR_HTtvevdu0ZBXgO0Y9azb1pnGNvb7wJ7PSVo=",
+        "category":"Diary products"
+    },
+    {
+        "name":"Yogurt",
+        "description":"Yogurt is a fermented dairy product made by adding bacterial cultures to milk. It has a thick and creamy texture and is available in numerous flavors. Yogurt is a popular breakfast or snack option and is known for its probiotic properties, which benefit gut health. It is also a good source of protein, calcium, and vitamins.",
+        "image":"https://media.istockphoto.com/id/1435026978/photo/green-bowl-of-greek-yogurt-and-fresh-berries-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=XLHbZQv-9byok_NFFrIy5GIpceg3jKpIRx-XeqsH4Io=",
+        "category":"Diary products"
+    },
+    {
+        "name":"Butter",
+        "description":" Butter is a dairy product made by churning cream or milk until it reaches a solid state. It is commonly used as a cooking and baking ingredient to add flavor, moisture, and richness to dishes. Butter is primarily composed of milk fat and contains trace amounts of protein and vitamins.",
+        "image":"https://media.istockphoto.com/id/1430714109/photo/the-viral-butter-charcuterie-board-with-organic-honey.webp?b=1&s=170667a&w=0&k=20&c=vRRb-VnJUeMb6zHrOOtHBNR6QXLQGqnHb_lRdKypno0=",
+        "category":"Diary products"
+    },
+    {
+        "name":"Cream",
+        "description":"Cream is a high-fat dairy product that is separated from milk. It has a rich and velvety texture and is commonly used as a key ingredient in sauces, soups, desserts, and coffee. Cream comes in various forms such as heavy cream, light cream, and whipping cream. It is a significant source of calories, fat, and flavor.",
+        "image":"https://media.istockphoto.com/id/1384367164/photo/half-and-half-cream-in-a-measuring-cup.webp?b=1&s=170667a&w=0&k=20&c=U5ooL6-Ve8fAp7JUzi5VeVtsio0P1AkyeBU4M5P4ZQU=",
+        "category":"Diary products"
+    }
+]
