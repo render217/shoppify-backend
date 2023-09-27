@@ -5,6 +5,10 @@ const cartSchema = new mongoose.Schema(
       type: mongoose.Schema.Types.ObjectId,
       ref: "User",
     },
+    name: {
+      type: String,
+      required: true,
+    },
     status: {
       type: {
         enum: ["completed", "cancelled"],

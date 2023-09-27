@@ -1,4 +1,5 @@
 const Product = require("../model/product.model");
+
 exports.getAllProducts = async (req, res) => {
   const products = await Product.find({
     $or: [{ ownerId: null }],
@@ -67,3 +68,13 @@ exports.getAllByCategory = async (req, res) => {
   ]);
   res.json(products);
 };
+
+exports.getProductById = async (req, res) => {
+  const prodId = req.params.id;
+  const product = await Product.findOne({ _id: prodId });
+  res.json({ data: product });
+};
+
+exports.getTopCategory = async (req, res) => {};
+
+exports.getTopProduct = async (req, res) => {};
