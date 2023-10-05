@@ -4,6 +4,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const productsRoute = require("./src/routes/products.routes");
+const cartRoute = require("./src/routes/cart.routes");
 const connectDB = require("./src/config/database");
 
 app.use(
@@ -13,13 +14,19 @@ app.use(
 );
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-
+app.use((req, res, next) => {
+    req.user = { id: "651a659b65ed0c53c48a4935" };
+    next();
+});
 app.use("/api/v1/products", productsRoute);
+app.use("/api/v1/cart", cartRoute);
+
 app.use("*", (req, res) => {
     next("route not found");
 });
 app.use((err, req, res, next) => {
-    res.status(500).json({ message: "Something went wrong" });
+    console.log(err)
+    res.status(500).json({ message: err.message || "Something went wrong" });
 });
 const port = process.env.PORT || 3500;
 const start = async () => {
